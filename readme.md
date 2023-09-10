@@ -1,4 +1,4 @@
-# GitHub Finder Web Application [Link]()
+# GitHub Finder Web Application [Link](https://shantanumurdio.github.io/github_finder/)
 
 GitHub Finder is a simple web application that allows users to search for GitHub profiles and retrieve a list of all GitHub users. It provides an intuitive interface to explore GitHub users' information and access their GitHub profiles.
 
